@@ -21,3 +21,4 @@ Acts as an AI mentor that suggests what to learn next based on current skills an
 
 ### Dashboard View 2
 ![Dashboard 2](images/dashboard-1.png)
+
